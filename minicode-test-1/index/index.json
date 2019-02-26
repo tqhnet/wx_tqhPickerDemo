@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "my-component": "/components/my-component",
+    "tqhPciker":"/components/tqhPicker/tqhPicker"
+  }
+}
